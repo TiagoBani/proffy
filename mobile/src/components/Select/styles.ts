@@ -24,6 +24,11 @@ const styles = StyleSheet.create({
   inputBlock: {
     width: "46%",
   },
+
+  select: {
+    width: 550,
+    height: 150,
+  },
 });
 
 export default styles;
