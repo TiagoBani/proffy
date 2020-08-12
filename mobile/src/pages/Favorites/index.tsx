@@ -18,9 +18,9 @@ const Favorites: React.FC = () => {
                     paddingBottom: 16,
                 }}
             >
+                {/* <TeacherItem />
                 <TeacherItem />
-                <TeacherItem />
-                <TeacherItem />
+                <TeacherItem /> */}
             </ScrollView>
         </View>
     )
