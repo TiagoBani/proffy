@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   name: {
     fontFamily: "Archivo_700Bold",
     color: "#32264d",
-    fontSize: 10,
+    fontSize: 14,
   },
 
   subject: {
