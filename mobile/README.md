@@ -1,15 +1,17 @@
-# Proffy web
+# Proffy mobile
 
-Application in react with typescript to give classes and teacher list
+Application in react native with typescript to teacher list favorites and teacher list.
 
-![landing](../img/web/landing.png)
-
-![teacher-list](../img/web/teacher-list.png)
-
-![give-classes](../img/web/give-classes.png)
+<img src="../img/mobile/landing.png" style="width: 300px;" />
+<img src="../img/mobile/favorites.png" style="width: 300px;" />
+<img src="../img/mobile/give-classes.png" style="width: 300px;" />
+<img src="../img/mobile/teacher-list-form.png" style="width: 300px;" />
+<img src="../img/mobile/teacher-list-form-2.png" style="width: 300px;" />
+<img src="../img/mobile/teacher-list-proffys.png" style="width: 300px;"/>
 
 ## Available Scripts
 
+eaa
 In the project directory, you can run:
 
 ### `npm start`
