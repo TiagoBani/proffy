@@ -11,7 +11,13 @@
     "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback",
     "build": "npm install --production"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "express",
+    "knex",
+    "sqlite",
+    "node"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
