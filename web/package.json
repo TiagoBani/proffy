@@ -18,6 +18,7 @@
     "typescript": "^3.9.7"
   },
   "scripts": {
+    "prestart": "npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
