@@ -9,9 +9,13 @@ Application in react native with typescript to teacher list favorites and teache
 <img src="../img/mobile/teacher-list-form-2.png" style="width: 300px;" />
 <img src="../img/mobile/teacher-list-proffys.png" style="width: 300px;"/>
 
+## Requirements
+
+- Expo global install
+- Node v12+
+
 ## Available Scripts
 
-eaa
 In the project directory, you can run:
 
 ### `npm start`

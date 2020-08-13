@@ -8,6 +8,10 @@ Application in nodejs with typescript to persists teachers and classes data.
 - knex
 - sqlite
 
+## Requirements
+
+- Node v12+
+
 ## Available Scripts
 
 In the project directory, you can run:

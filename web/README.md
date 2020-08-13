@@ -8,6 +8,10 @@ Application in react with typescript to give classes and teacher list
 
 ![give-classes](../img/web/give-classes.png)
 
+## Requirements
+
+- Node v12+
+
 ## Available Scripts
 
 In the project directory, you can run:
