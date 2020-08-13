@@ -4,9 +4,8 @@
 
 ![landing](img/web/landing.png)
 
-<img src="img/mobile/teacher-list-form.png" style="width: 300px;" />
-
-<img src="img/mobile/teacher-list-proffys.png" style="width: 300px;"/>
+![teacher-list-form](img/mobile/teacher-list-form.png)
+![teacher-list-proffys](img/mobile/teacher-list-proffys.png)
 
 features:
 
