@@ -2,12 +2,13 @@
 
 Application in react native with typescript to teacher list favorites and teacher list.
 
-<img src="../img/mobile/landing.png" style="width: 300px;" />
-<img src="../img/mobile/favorites.png" style="width: 300px;" />
-<img src="../img/mobile/give-classes.png" style="width: 300px;" />
-<img src="../img/mobile/teacher-list-form.png" style="width: 300px;" />
-<img src="../img/mobile/teacher-list-form-2.png" style="width: 300px;" />
-<img src="../img/mobile/teacher-list-proffys.png" style="width: 300px;"/>
+![landing](../img/mobile/landing.png)
+![favorites](../img/mobile/favorites.png)
+![give-classes](../img/mobile/give-classes.png)
+![teacher-list-form](../img/mobile/teacher-list-form.png)
+![teacher-list-form-2](../img/mobile/teacher-list-form-2.png)
+![teacher-list-proffys](../img/mobile/teacher-list-proffys.png)
+
 
 ## Requirements
 
